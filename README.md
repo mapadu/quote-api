@@ -1,7 +1,6 @@
 Quote API
 
 This is a simple API built with Node.js and Express that manages a collection of quotes. The API allows users to perform basic CRUD operations on the quotes, including fetching all quotes, fetching quotes by a specific author, adding a new quote, and getting a random quote.
-API Endpoints
 
 
 How to Run
